@@ -44,6 +44,18 @@ Jablonski, Hsueh: Selfstabilizing data structures
 ',
         out => "Inf\n"
     },
+    {
+        in => 
+'Ivanov
+Smith, Martin, Erdos: Newtonian forms of prime factor matrices 
+Erdos, Reisig: Stuttering in petri nets
+Smith, Chen: First oder derivates in structured programming
+Jablonski, Hsueh: Selfstabilizing data structures
+Ivanov, Petrov: Where is Sidorov?
+Mendeleev, Ivanov: How to make vodka
+',
+        out => "Inf\n"
+    },
 );
 
 my ( $in, $out, $err );
