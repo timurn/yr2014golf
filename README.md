@@ -23,10 +23,10 @@
 
 **Пример:**  
 Chen  
-Smith, M.N., Martin, G., Erdos, P.: Newtonian forms of prime factor matrices  
-Erdos, P., Reisig, W.: Stuttering in petri nets  
-Smith, M.N., Chen, X.: First oder derivates in structured programming  
-Jablonski, T., Hsueh, Z.: Selfstabilizing data structures
+Smith, Martin, Erdos: Newtonian forms of prime factor matrices  
+Erdos, Reisig: Stuttering in petri nets  
+Smith, Chen: First oder derivates in structured programming  
+Jablonski, Hsueh: Selfstabilizing data structures
 
 Данные подаются на STDIN:  
 `cat data | perl golf.pl`
